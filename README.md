@@ -15,10 +15,10 @@ Trabajo final de la materia Web I
        <li> Uso de carrousel</li>
              <ul>
                 <li> Debe ser creado por el estudiante, es decir, no de una librería o totalmente copiado de un tutorial. La rotación de imágenes debe estar implementada                 en javascript y usando arrays.</li>
-             </u>
+             </ul>
        <li>Uso de estilos vistos en clase</li>
               <ul>
-                  <li> Debe ser desarrollado por el estudiante, es decir sin uso de frameworks. Uso de fuentes, posicionado, colores, fondos, cambio del layout con float o                   flex, etc. </li>
+                  <li> Debe ser desarrollado por el estudiante, es decir sin uso de frameworks. Uso de fuentes, posicionado, colores, fondos, cambio del layout con float                   o flex, etc. </li>
               </ul>
 
 </ul>
